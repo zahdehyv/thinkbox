@@ -1,0 +1,58 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": true,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:\"Media DB\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 786611
+      }
+    },
+    {
+      "query": "path:thesis  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711731
+      }
+    },
+    {
+      "query": "path:research  ",
+      "color": {
+        "a": 1,
+        "rgb": 16741120
+      }
+    },
+    {
+      "query": "path:zotero  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "path:utils  ",
+      "color": {
+        "a": 1,
+        "rgb": 1184274
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": true,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.479166666666667,
+  "repelStrength": 9.6875,
+  "linkStrength": 1,
+  "linkDistance": 267,
+  "scale": 0.1846232622585844,
+  "close": false
+}

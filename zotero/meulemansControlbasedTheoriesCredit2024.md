@@ -1,0 +1,16 @@
+---
+Title: "Control-based theories for credit assignment in neural networks and reinforcement learning"
+Year: 2024 (January)
+Authors: Alexander Meulemans
+Tags: 
+
+aliases: 
+- "Control-based theories for credit assignment in neural networks and reinforcement learning"
+- ""
+---
+> [!ABSTRACT]
+>Understanding the human brain and developing artificial intelligence (AI) are among the most significant scientific endeavors of our time. Neuroscience and AI enjoy a symbiotic relationship: understanding the mechanisms of the human mind drives scientific discovery and inspires novel AI techniques, and conversely, AI offers valuable insights to conceptualize how the brain accomplishes specific tasks. This thesis leverages this relationship to both develop practically relevant algorithms and advance our understanding of neural computation. To achieve this, we design new algorithms addressing functional desiderata from neuroscience which are important but not yet present in AI systems, while adhering to central computational principles of the brain. We focus on the concept of credit assignment, the process of assigning credit or blame to specific neural computations and synaptic connections for obtaining a behavioral outcome. Credit assignment is key for both rapid modulation of ongoing neural processes and long-term learning through synaptic change. Inspired by neuroscientific evidence of feedback signals guiding both functions, we develop the least-control principle, a control-centric credit assignment theory that unites rapid neural modulation with gradual synaptic learning. Our principle formulates learning as a least-control problem: error feedback optimally guides network dynamics towards states of minimal loss, while synaptic plasticity steadily reduces the necessary control effort to reach such states. The resulting learning rules are local in space and time, and compatible with feedforward and recurrent neural networks. In practice, our principle leads to strong performance matching that of leading gradient-based learning methods on feedforward and equilibrium networks. By showing a duality between our least-control principle and the expectation-maximization method for learning in latent-variable probabilistic models, we offer a fresh control-centric perspective on learning in the brain, complementary to previous theories such as the Bayesian Brain and Active Inference.  Second, we target the sample efficiency of credit assignment in reinforcement learning. By drawing inspiration from counterfactual reasoning, a hallmark of human intelligence, we develop Counterfactual Contribution Analysis, a novel model-based credit assignment theory for reinforcement learning. We quantify the counterfactual "Would the agent still have achieved the rewarding outcome, if it had taken another action?" to measure credit towards past actions, leading us to policy gradient methods that learn more effectively from limited data.  Through combining neuroscientific inspiration with practical machine learning techniques, this thesis sheds new light on potential credit assignment mechanisms in the brain alongside practical algorithmic advancements.
+---
+> [!tip] LINK
+> [Full Text PDF](zotero://select/library/items/SSR2VHZ7)
+
