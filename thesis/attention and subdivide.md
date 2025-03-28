@@ -18,4 +18,4 @@ using the [[attention idea]] and the matching used in [[liRetroLLMEmpoweringLarg
 > - entity relation entity
 
 
-
+see also [[metropolitanskyEffectiveExtractionEvaluation2025|Towards Effective Extraction and Evaluation of Factual Claims]]

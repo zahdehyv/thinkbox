@@ -11,10 +11,24 @@
             "id": "4606b372c206fa6e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "research/research agents/research agents workflow idea.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "research agents workflow idea"
             }
           }
         ]
@@ -167,8 +181,25 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0f4f2ed03b6bc74e",
+  "active": "4606b372c206fa6e",
   "lastOpenFiles": [
+    "Media DB/wiki/Prompt engineering.md",
+    "research/research agents/research agents workflow idea.md",
+    "Media DB/wiki/Chain of thought.md",
+    "Media DB/wiki/Great chain of being.md",
+    "Media DB/wiki/Markov chain.md",
+    "Media DB/wiki/OpenAI o3.md",
+    "Media DB/wiki/Train of thought.md",
+    "Media DB/wiki/Reasoning language model.md",
+    "zotero/metropolitanskyEffectiveExtractionEvaluation2025.md",
+    "research/research agents",
+    "thesis/attention and subdivide.md",
+    "thesis/attention idea.md",
+    "thesis/llm pre matching.md",
+    "zotero/wangKBLaMKnowledgeBase2024.md",
+    "zotero/sennNeuronalLeastactionPrinciple2024.md",
+    "zotero/meulemansControlbasedTheoriesCredit2024.md",
+    "zotero/schroedingerWhatLife2014.md",
     "research/neuroscience/least action principle.md",
     "Media DB/wiki/Explainable artificial intelligence.md",
     "Media DB/wiki/Machine learning.md",
@@ -179,22 +210,6 @@
     "Media DB/wiki/Support vector machine.md",
     "Media DB/wiki/Boosting (machine learning).md",
     "Media DB/wiki/Artificial intelligence.md",
-    "Media DB/wiki/Active learning (machine learning).md",
-    "Media DB/wiki/Deep learning.md",
-    "Media DB/wiki/Quantum machine learning.md",
-    "Media DB/wiki/Neural network (machine learning).md",
-    "Media DB/wiki/Transformer (deep learning architecture).md",
-    "Media DB/wiki/Attention (machine learning).md",
-    "zotero/meulemansControlbasedTheoriesCredit2024.md",
-    "zotero/yangPASemiQAPlanAssistedAgent2025.md",
-    "zotero/wangKBLaMKnowledgeBase2024.md",
-    "zotero/tangLotteryLLMHypothesis2025.md",
-    "zotero/sennNeuronalLeastactionPrinciple2024.md",
-    "zotero/schroedingerWhatLife2014.md",
-    "zotero/liRetroLLMEmpoweringLarge2024.md",
-    "zotero/liangSurveyXAcademicSurvey2025.md",
-    "zotero/hewingPromptCanvasLiteratureBased2024.md",
-    "Media DB/wiki/Review article.md",
     "Media DB/concepts",
     "research/implementations",
     "utils",
@@ -209,7 +224,6 @@
     "zotero/tangLotteryLLMHypothesis2025/image-5-x305-y160.png",
     "zotero/tangLotteryLLMHypothesis2025",
     "zotero/hewingPromptCanvasLiteratureBased2024/image-undefined-x129-y59.png",
-    "zotero/hewingPromptCanvasLiteratureBased2024",
     "zotero/liRetroLLMEmpoweringLarge2024/image-4-x59-y539.png",
     "zotero/chenSANASprintOneStepDiffusion2025/image-8-x314-y529.png"
   ]
