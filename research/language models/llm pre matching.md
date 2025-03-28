@@ -3,6 +3,7 @@ tags:
   - MatchingStrings
   - Computer_Science_-_Artificial_Intelligence
   - Computer_Science_-_Information_Retrieval
+  - thesis
 aliases:
 ---
 the paper [[liRetroLLMEmpoweringLarge2024|RetroLLM: Empowering Large Language Models to Retrieve Fine-grained Evidence within Generation]] uses the idea of the model generating a cite and then matching it on the context, using something called the [[Burrows–Wheeler transform]] and [[FM-index]]

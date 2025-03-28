@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "research/research agents/research agents workflow idea.md",
+                "file": "research/language models/attention and subdivide.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "research agents workflow idea"
+              "title": "attention and subdivide"
             }
           }
         ]
@@ -181,10 +181,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4606b372c206fa6e",
+  "active": "0f4f2ed03b6bc74e",
   "lastOpenFiles": [
-    "Media DB/wiki/Prompt engineering.md",
+    "research/language models",
+    "research/language models/rectangular attention.md",
+    "research/research agents/query and workflow idea.md",
+    "research/language models/prompt engine.md",
+    "research/research agents/meta agent.md",
+    "research/language models/llm pre matching.md",
+    "research/language models/attention idea.md",
     "research/research agents/research agents workflow idea.md",
+    "Media DB/wiki/Prompt engineering.md",
     "Media DB/wiki/Chain of thought.md",
     "Media DB/wiki/Great chain of being.md",
     "Media DB/wiki/Markov chain.md",
@@ -193,9 +200,7 @@
     "Media DB/wiki/Reasoning language model.md",
     "zotero/metropolitanskyEffectiveExtractionEvaluation2025.md",
     "research/research agents",
-    "thesis/attention and subdivide.md",
-    "thesis/attention idea.md",
-    "thesis/llm pre matching.md",
+    "research/language models/attention and subdivide.md",
     "zotero/wangKBLaMKnowledgeBase2024.md",
     "zotero/sennNeuronalLeastactionPrinciple2024.md",
     "zotero/meulemansControlbasedTheoriesCredit2024.md",
@@ -203,13 +208,8 @@
     "research/neuroscience/least action principle.md",
     "Media DB/wiki/Explainable artificial intelligence.md",
     "Media DB/wiki/Machine learning.md",
-    "research/implementations/figures gemini.md",
+    "research/language models/figures gemini.md",
     "Media DB/wiki/Tensor (machine learning).md",
-    "Media DB/wiki/Regularization (mathematics).md",
-    "Media DB/wiki/Learning.md",
-    "Media DB/wiki/Support vector machine.md",
-    "Media DB/wiki/Boosting (machine learning).md",
-    "Media DB/wiki/Artificial intelligence.md",
     "Media DB/concepts",
     "research/implementations",
     "utils",

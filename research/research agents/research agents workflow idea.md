@@ -2,6 +2,7 @@
 tags:
   - AgentWorkflow
   - Idea
+  - thesis
 aliases:
 ---
 there must be 2 main accurately designed steps in agent research (at first)
