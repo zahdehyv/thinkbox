@@ -1,8 +1,6 @@
 ---
 tags:
   - MatchingStrings
-  - Computer_Science_-_Artificial_Intelligence
-  - Computer_Science_-_Information_Retrieval
   - thesis
 aliases:
 ---

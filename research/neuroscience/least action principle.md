@@ -1,10 +1,6 @@
 ---
 tags:
-  - cortical_dynamics
-  - theoretical_brain_research
-  - synaptic_plasticity
   - Physics
-  - error-minimization
 aliases:
 ---
 

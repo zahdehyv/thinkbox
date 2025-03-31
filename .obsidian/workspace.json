@@ -4,16 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "d3c7698c34d6ce7f",
+        "id": "8bfe9421f1580340",
         "type": "tabs",
         "children": [
           {
-            "id": "4606b372c206fa6e",
+            "id": "6118a21cc2a108f4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "research/language models/attention and subdivide.md",
+                "file": "utils/templates/template.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "template"
+            }
+          },
+          {
+            "id": "a70130be714a2e94",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zotero/grossbergLinkBrainLearning1997.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +52,83 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "attention and subdivide"
+              "title": "grossbergLinkBrainLearning1997"
+            }
+          },
+          {
+            "id": "5ccc21ec6a19b204",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zotero/liRetroLLMEmpoweringLarge2024.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "liRetroLLMEmpoweringLarge2024"
+            }
+          },
+          {
+            "id": "f48954bb6b5d4a5c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zotero/hewingPromptCanvasLiteratureBased2024.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "hewingPromptCanvasLiteratureBased2024"
+            }
+          },
+          {
+            "id": "2c42d091fc0ab81a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zotero/sennNeuronalLeastactionPrinciple2024.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "sennNeuronalLeastactionPrinciple2024"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -63,7 +160,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:theoretical_brain_research",
+                "query": "tag:#error",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,7 +181,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -160,14 +258,27 @@
               "icon": "lucide-list",
               "title": "Outline of callouts"
             }
+          },
+          {
+            "id": "98cd0677ee8eabdc",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
           }
         ],
         "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 335.5,
-    "collapsed": true
+    "width": 335.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,38 +289,43 @@
       "switcher:Open quick switcher": false,
       "daily-notes:Open today's daily note": false,
       "obsidian-media-db-plugin:Add new Media DB entry": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "audio-recorder:Start/stop recording": false,
+      "publish:Publish changes...": false
     }
   },
-  "active": "0f4f2ed03b6bc74e",
+  "active": "2c42d091fc0ab81a",
   "lastOpenFiles": [
-    "research/language models",
+    "utils/icons.md",
+    "utils/icons000.md",
+    "Media DB/wiki/Maupertuis's principle.md",
+    "research/neuroscience/least action principle.md",
+    "research/language models/prompt engine.md",
     "research/language models/rectangular attention.md",
     "research/research agents/query and workflow idea.md",
-    "research/language models/prompt engine.md",
     "research/research agents/meta agent.md",
     "research/language models/llm pre matching.md",
     "research/language models/attention idea.md",
-    "research/research agents/research agents workflow idea.md",
-    "Media DB/wiki/Prompt engineering.md",
-    "Media DB/wiki/Chain of thought.md",
-    "Media DB/wiki/Great chain of being.md",
-    "Media DB/wiki/Markov chain.md",
-    "Media DB/wiki/OpenAI o3.md",
-    "Media DB/wiki/Train of thought.md",
-    "Media DB/wiki/Reasoning language model.md",
-    "zotero/metropolitanskyEffectiveExtractionEvaluation2025.md",
-    "research/research agents",
     "research/language models/attention and subdivide.md",
-    "zotero/wangKBLaMKnowledgeBase2024.md",
     "zotero/sennNeuronalLeastactionPrinciple2024.md",
-    "zotero/meulemansControlbasedTheoriesCredit2024.md",
-    "zotero/schroedingerWhatLife2014.md",
-    "research/neuroscience/least action principle.md",
-    "Media DB/wiki/Explainable artificial intelligence.md",
-    "Media DB/wiki/Machine learning.md",
-    "research/language models/figures gemini.md",
-    "Media DB/wiki/Tensor (machine learning).md",
+    "zotero/hewingPromptCanvasLiteratureBased2024.md",
+    "zotero/liRetroLLMEmpoweringLarge2024.md",
+    "zotero/grossbergLinkBrainLearning1997.md",
+    "utils/templates/template.md",
+    "Media DB/wiki/Burrows–Wheeler transform.md",
+    "Media DB/wiki/Chain of thought.md",
+    "Media DB/wiki/Boosting (machine learning).md",
+    "Media DB/wiki/Attention (machine learning).md",
+    "Media DB/wiki/ArXiv.md",
+    "Media DB/wiki/Artificial intelligence.md",
+    "Media DB/wiki/Adaptive resonance theory.md",
+    "Media DB/wiki/Active learning (machine learning).md",
+    "Media DB/wiki/Action principles.md",
+    "Media DB/wiki/Learning.md",
+    "Recording 20250330175038.m4a",
+    "Recording 20250330175029.m4a",
+    "research/language models",
+    "research/research agents",
     "Media DB/concepts",
     "research/implementations",
     "utils",
@@ -217,12 +333,9 @@
     "Media DB/wiki",
     "Media DB",
     "zotero/yangPASemiQAPlanAssistedAgent2025/image-6-x46-y202.png",
-    "zotero/yangPASemiQAPlanAssistedAgent2025",
     "zotero/liangSurveyXAcademicSurvey2025/image-4-x46-y156.png",
     "zotero/liangSurveyXAcademicSurvey2025/image-3-x45-y473.png",
-    "zotero/liangSurveyXAcademicSurvey2025",
     "zotero/tangLotteryLLMHypothesis2025/image-5-x305-y160.png",
-    "zotero/tangLotteryLLMHypothesis2025",
     "zotero/hewingPromptCanvasLiteratureBased2024/image-undefined-x129-y59.png",
     "zotero/liRetroLLMEmpoweringLarge2024/image-4-x59-y539.png",
     "zotero/chenSANASprintOneStepDiffusion2025/image-8-x314-y529.png"

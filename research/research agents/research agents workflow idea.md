@@ -6,7 +6,7 @@ tags:
 aliases:
 ---
 there must be 2 main accurately designed steps in agent research (at first)
-- acurate factual extraction [[metropolitanskyEffectiveExtractionEvaluation2025|Claimify]]
+- accurate factual extraction [[metropolitanskyEffectiveExtractionEvaluation2025|(see Claimify)]]
 - consistent idea entailing (see Chain of Thought et al. in [[Prompt engineering]])
 
 > [!todo]

@@ -4,7 +4,7 @@ Year: 2024 (December)
 Authors: Michael Hewing, Vincent Leinhos
 Tags: 
 
-- Computer_Science_-_Artificial_Intelligence
+- ComputerScience/ArtificialIntelligence
 
 aliases: 
 - "The Prompt Canvas: A Literature-Based Practitioner Guide for Creating Effective Prompts in Large Language Models"

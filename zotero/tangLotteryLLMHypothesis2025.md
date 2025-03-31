@@ -4,13 +4,13 @@ Year: 2025 (February)
 Authors: Zhenheng Tang, Xiang Liu, Qian Wang, Peijie Dong, Bingsheng He, Xiaowen Chu, Bo Li
 Tags: 
 
-- Computer_Science_-_Machine_Learning
+- ComputerScience/MachineLearning
 
-- Computer_Science_-_Computation_and_Language
+- ComputerScience/ComputationandLanguage
 
-- Computer_Science_-_Artificial_Intelligence
+- ComputerScience/ArtificialIntelligence
 
-- Computer_Science_-_Formal_Languages_and_Automata_Theory
+- ComputerScience/FormalLanguagesandAutomataTheory
 
 aliases: 
 - "The Lottery LLM Hypothesis, Rethinking What Abilities Should LLM Compression Preserve?"

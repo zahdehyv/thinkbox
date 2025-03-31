@@ -2,9 +2,6 @@
 tags:
   - Idea
   - Attention
-  - Computer_Science_-_Machine_Learning
-  - Computer_Science_-_Information_Retrieval
-  - Computer_Science_-_Artificial_Intelligence
   - thesis
 aliases:
 ---

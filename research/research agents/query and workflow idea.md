@@ -2,9 +2,6 @@
 tags:
   - Idea
   - AgentWorkflow
-  - Computer_Science_-_Artificial_Intelligence
-  - Computer_Science_-_Machine_Learning
-  - Computer_Science_-_Computation_and_Language
   - thesis
 aliases:
 ---

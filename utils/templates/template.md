@@ -4,7 +4,7 @@ Year: {{date | format("YYYY (MMMM)")}}
 Authors: {{authors}}
 Tags: 
 {% for t in tags %}
-- {{t.tag | replace(" ", "_")}}
+- {{t.tag | replace(" ", "") | replace("-", "/")}}
 {% endfor %}
 aliases: 
 - "{{title | escape}}"

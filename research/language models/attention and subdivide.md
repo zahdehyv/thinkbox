@@ -2,10 +2,12 @@
 tags:
   - Idea
   - Attention
-  - Computer_Science_-_Machine_Learning
-  - Computer_Science_-_Artificial_Intelligence
-  - Computer_Science_-_Computation_and_Language
   - MatchingStrings
+  - thesis
+  - ComputerScience
+  - ComputerScience/ArtificialIntelligence
+  - ComputerScience/ComputationandLanguage
+  - ComputerScience/InformationRetrieval
 aliases:
 ---
 using the [[attention idea]] and the matching used in [[liRetroLLMEmpoweringLarge2024|RetroLLM: Empowering Large Language Models to Retrieve Fine-grained Evidence within Generation]] [[llm pre matching]]

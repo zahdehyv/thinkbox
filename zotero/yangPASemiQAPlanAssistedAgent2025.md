@@ -4,9 +4,9 @@ Year: 2025 (February)
 Authors: Hansi Yang, Qi Zhang, Wei Jiang, Jianguo Li
 Tags: 
 
-- Computer_Science_-_Computation_and_Language
+- ComputerScience/ComputationandLanguage
 
-- Computer_Science_-_Artificial_Intelligence
+- ComputerScience/ArtificialIntelligence
 
 aliases: 
 - "PASemiQA: Plan-Assisted Agent for Question Answering on Semi-Structured Data with Text and Relational Information"

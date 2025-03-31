@@ -2,8 +2,6 @@
 tags:
   - Attention
   - Transformer
-  - Computer_Science_-_Artificial_Intelligence
-  - Computer_Science_-_Machine_Learning
   - thesis
 aliases:
   - RA

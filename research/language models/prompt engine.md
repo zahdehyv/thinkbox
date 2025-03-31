@@ -1,9 +1,6 @@
 ---
 tags:
   - PromptEngineering
-  - Computer_Science_-_Computation_and_Language
-  - Computer_Science_-_Information_Retrieval
-  - Computer_Science_-_Machine_Learning
   - thesis
 aliases:
 ---

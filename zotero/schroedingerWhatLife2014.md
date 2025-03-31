@@ -10,7 +10,7 @@ aliases:
 ---
 ---
 > [!tip] LINK
-> [LINK](zotero://select/library/items/7MQ7IYZM)
+> [LINK](zotero://select/library/items/7MQ7IYZM.md)
 
 
 > [!note]

@@ -4,7 +4,7 @@ Year: 2025 (February)
 Authors: Xun Liang, Jiawei Yang, Yezhaohui Wang, Chen Tang, Zifan Zheng, Simin Niu, Shichao Song, Hanyu Wang, Bo Tang, Feiyu Xiong, Keming Mao, Zhiyu li
 Tags: 
 
-- Computer_Science_-_Computation_and_Language
+- ComputerScience/ComputationandLanguage
 
 aliases: 
 - "SurveyX: Academic Survey Automation via Large Language Models"

@@ -4,11 +4,11 @@ Year: 2024 (December)
 Authors: Xiaoxi Li, Jiajie Jin, Yujia Zhou, Yongkang Wu, Zhonghua Li, Qi Ye, Zhicheng Dou
 Tags: 
 
-- Computer_Science_-_Computation_and_Language
+- ComputerScience/ComputationandLanguage
 
-- Computer_Science_-_Artificial_Intelligence
+- ComputerScience/ArtificialIntelligence
 
-- Computer_Science_-_Information_Retrieval
+- ComputerScience/InformationRetrieval
 
 aliases: 
 - "RetroLLM: Empowering Large Language Models to Retrieve Fine-grained Evidence within Generation"
