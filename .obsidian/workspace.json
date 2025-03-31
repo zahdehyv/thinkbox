@@ -83,52 +83,14 @@
             "id": "f48954bb6b5d4a5c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zotero/hewingPromptCanvasLiteratureBased2024.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "hewingPromptCanvasLiteratureBased2024"
-            }
-          },
-          {
-            "id": "2c42d091fc0ab81a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zotero/sennNeuronalLeastactionPrinciple2024.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "sennNeuronalLeastactionPrinciple2024"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -181,8 +143,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -278,7 +239,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 335.5
+    "width": 335.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -294,8 +256,12 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "2c42d091fc0ab81a",
+  "active": "f48954bb6b5d4a5c",
   "lastOpenFiles": [
+    "zotero/hewingPromptCanvasLiteratureBased2024.md",
+    "Recording 20250330175029.m4a",
+    "Recording 20250330175038.m4a",
+    "zotero/sennNeuronalLeastactionPrinciple2024.md",
     "utils/icons.md",
     "utils/icons000.md",
     "Media DB/wiki/Maupertuis's principle.md",
@@ -307,8 +273,6 @@
     "research/language models/llm pre matching.md",
     "research/language models/attention idea.md",
     "research/language models/attention and subdivide.md",
-    "zotero/sennNeuronalLeastactionPrinciple2024.md",
-    "zotero/hewingPromptCanvasLiteratureBased2024.md",
     "zotero/liRetroLLMEmpoweringLarge2024.md",
     "zotero/grossbergLinkBrainLearning1997.md",
     "utils/templates/template.md",
@@ -321,9 +285,6 @@
     "Media DB/wiki/Adaptive resonance theory.md",
     "Media DB/wiki/Active learning (machine learning).md",
     "Media DB/wiki/Action principles.md",
-    "Media DB/wiki/Learning.md",
-    "Recording 20250330175038.m4a",
-    "Recording 20250330175029.m4a",
     "research/language models",
     "research/research agents",
     "Media DB/concepts",
