@@ -1,0 +1,1 @@
+neural networks based on ratio signals (each neuron receives a particular frequency), emitir las ondas de radio aleatoriamente aunq se tengan los pesos, tipo una dualidad, para ir modificando los pesos en inicio

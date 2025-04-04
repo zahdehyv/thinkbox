@@ -1,0 +1,1 @@
+use [[Gaussian splatting]] in [[Large language model|Large language models]] to get some kind of spatial understanding

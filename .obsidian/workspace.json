@@ -4,40 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8bfe9421f1580340",
+        "id": "766a20f528a8e639",
         "type": "tabs",
         "children": [
           {
-            "id": "6118a21cc2a108f4",
+            "id": "21b6c008362bf59e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "utils/templates/template.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "template"
-            }
-          },
-          {
-            "id": "a70130be714a2e94",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zotero/grossbergLinkBrainLearning1997.md",
+                "file": "research/computer science/language models/agents/query and workflow idea.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,45 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "grossbergLinkBrainLearning1997"
-            }
-          },
-          {
-            "id": "5ccc21ec6a19b204",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zotero/liRetroLLMEmpoweringLarge2024.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "liRetroLLMEmpoweringLarge2024"
-            }
-          },
-          {
-            "id": "f48954bb6b5d4a5c",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "query and workflow idea"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#error",
+                "query": "tag:#LLM",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -245,54 +186,53 @@
   "left-ribbon": {
     "hiddenItems": {
       "command-palette:Open command palette": false,
-      "templates:Insert template": false,
+      "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "switcher:Open quick switcher": false,
       "daily-notes:Open today's daily note": false,
       "obsidian-media-db-plugin:Add new Media DB entry": false,
-      "templater-obsidian:Templater": false,
-      "audio-recorder:Start/stop recording": false,
-      "publish:Publish changes...": false
+      "templates:Insert template": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "f48954bb6b5d4a5c",
+  "active": "21b6c008362bf59e",
   "lastOpenFiles": [
-    "zotero/hewingPromptCanvasLiteratureBased2024.md",
+    "Untitled.md",
+    "research/computer science/language models/agents/query and workflow idea.md",
+    "utils/Zero no Tsukaima.md",
+    "research/computer science/language models/agents/report writer.md",
+    "research/computer science/language models/agents/framework thss.md",
+    "research/computer science/language models/agents/research agents workflow idea.md",
+    "research/computer science/language models/agents/meta agent.md",
+    "research/computer science/language models/agents/manim agent.md",
+    "research/computer science/language models/agents/input format.md",
+    "Media DB/wiki/Interaction nets.md",
+    "model of computation.md",
+    "research/computer science/world sim.md",
+    "Media DB/wiki/Interaction technique.md",
+    "Media DB/wiki/Hopfield network.md",
+    "Media DB/wiki/Geometry of interaction.md",
+    "Media DB/wiki/Linear graph grammar.md",
+    "Media DB/wiki/Graph rewriting.md",
+    "Media DB/wiki/Proof net.md",
+    "research/computer science/crystal NN.md",
+    "research/computer science/ratio signal pins.md",
+    "Media DB/wiki/Network automaton.md",
+    "Media DB/wiki/Cellular automaton.md",
+    "Media DB/wiki/Barnes–Hut simulation.md",
+    "zotero/nyeShowYourWork2021.md",
+    "Media DB/wiki/Speech synthesis.md",
+    "research/computer science/language models/audio and non-verbal.md",
+    "research/neuroscience/learning",
+    "research/computer science",
+    "research/anthropology",
     "Recording 20250330175029.m4a",
     "Recording 20250330175038.m4a",
-    "zotero/sennNeuronalLeastactionPrinciple2024.md",
-    "utils/icons.md",
-    "utils/icons000.md",
-    "Media DB/wiki/Maupertuis's principle.md",
-    "research/neuroscience/least action principle.md",
-    "research/language models/prompt engine.md",
-    "research/language models/rectangular attention.md",
-    "research/research agents/query and workflow idea.md",
-    "research/research agents/meta agent.md",
-    "research/language models/llm pre matching.md",
-    "research/language models/attention idea.md",
-    "research/language models/attention and subdivide.md",
-    "zotero/liRetroLLMEmpoweringLarge2024.md",
-    "zotero/grossbergLinkBrainLearning1997.md",
-    "utils/templates/template.md",
-    "Media DB/wiki/Burrows–Wheeler transform.md",
-    "Media DB/wiki/Chain of thought.md",
-    "Media DB/wiki/Boosting (machine learning).md",
-    "Media DB/wiki/Attention (machine learning).md",
-    "Media DB/wiki/ArXiv.md",
-    "Media DB/wiki/Artificial intelligence.md",
-    "Media DB/wiki/Adaptive resonance theory.md",
-    "Media DB/wiki/Active learning (machine learning).md",
-    "Media DB/wiki/Action principles.md",
-    "research/language models",
-    "research/research agents",
-    "Media DB/concepts",
+    "research/computer science/language models",
+    "research/computer science/language models/agents",
+    "research/concepts",
     "research/implementations",
     "utils",
-    "research",
-    "Media DB/wiki",
-    "Media DB",
     "zotero/yangPASemiQAPlanAssistedAgent2025/image-6-x46-y202.png",
     "zotero/liangSurveyXAcademicSurvey2025/image-4-x46-y156.png",
     "zotero/liangSurveyXAcademicSurvey2025/image-3-x45-y473.png",

@@ -1,6 +1,7 @@
 ---
 tags:
   - LLM
+  - concept
 aliases:
 ---
 

@@ -1,6 +1,12 @@
 ---
 tags:
   - Physics
+  - sensory/motorlearning
+  - corticaldynamics
+  - error
+  - error/minimization
+  - sensory
+  - synapticplasticity
 aliases:
 ---
 

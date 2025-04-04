@@ -1,0 +1,2 @@
+- knn with 7 to 10 on all Dewey categories, counting set and text from google
+- use the [[Dewey Decimal Classification]] system
