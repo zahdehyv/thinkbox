@@ -5,5 +5,7 @@
   "obsidian-wikipedia",
   "obsidian-icon-folder",
   "obsidian-icons-plugin",
-  "dataview"
+  "dataview",
+  "obsidian-git",
+  "tag-wrangler"
 ]

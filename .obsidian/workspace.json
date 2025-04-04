@@ -11,24 +11,17 @@
             "id": "21b6c008362bf59e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "research/computer science/language models/agents/query and workflow idea.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+                "file": "diagrams/research agent.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": -93,
+                  "zoom": 0
                 }
               },
-              "icon": "lucide-file",
-              "title": "query and workflow idea"
+              "icon": "lucide-layout-dashboard",
+              "title": "research agent"
             }
           }
         ]
@@ -174,14 +167,23 @@
               "icon": "lucide-archive",
               "title": "All properties"
             }
+          },
+          {
+            "id": "afc8ac48dedaea72",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 335.5,
-    "collapsed": true
+    "width": 335.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,12 +194,18 @@
       "daily-notes:Open today's daily note": false,
       "obsidian-media-db-plugin:Add new Media DB entry": false,
       "templates:Insert template": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "21b6c008362bf59e",
   "lastOpenFiles": [
     "Untitled.md",
+    "diagrams/research agent.canvas",
+    "research/neuroscience/learning/top down.md",
+    "diagrams",
+    "research/neuroscience/least action principle.md",
+    "research/anthropology/generalization quote.md",
     "research/computer science/language models/agents/query and workflow idea.md",
     "utils/Zero no Tsukaima.md",
     "research/computer science/language models/agents/report writer.md",
@@ -219,10 +227,6 @@
     "research/computer science/ratio signal pins.md",
     "Media DB/wiki/Network automaton.md",
     "Media DB/wiki/Cellular automaton.md",
-    "Media DB/wiki/Barnes–Hut simulation.md",
-    "zotero/nyeShowYourWork2021.md",
-    "Media DB/wiki/Speech synthesis.md",
-    "research/computer science/language models/audio and non-verbal.md",
     "research/neuroscience/learning",
     "research/computer science",
     "research/anthropology",
@@ -232,7 +236,6 @@
     "research/computer science/language models/agents",
     "research/concepts",
     "research/implementations",
-    "utils",
     "zotero/yangPASemiQAPlanAssistedAgent2025/image-6-x46-y202.png",
     "zotero/liangSurveyXAcademicSurvey2025/image-4-x46-y156.png",
     "zotero/liangSurveyXAcademicSurvey2025/image-3-x45-y473.png",
