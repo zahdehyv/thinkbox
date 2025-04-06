@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"35de65ca9a379227","x":253,"y":-60,"width":148,"height":60,"type":"text","text":"read files"},
+		{"id":"abb77beb13bc9355","x":255,"y":28,"width":146,"height":60,"type":"text","text":"move files"},
+		{"id":"ae788ffe116624b6","x":253,"y":110,"width":209,"height":70,"type":"text","text":"think with text (think about TODO)"},
+		{"id":"06a4993eeb574390","x":-380,"y":-118,"width":250,"height":293,"type":"text","text":"main receptor (transcriptor)\n> [!info]\n> creates a set of instructions at high level `(vibe coding)`\n"},
+		{"id":"abf38334c7553ef1","x":-80,"y":-87,"width":250,"height":230,"type":"text","text":"reactAgent\n> [!info]\n> receives the instructions"},
+		{"id":"671d6af99ffe57f6","x":-700,"y":-30,"width":250,"height":302,"type":"text","text":"> [!example] List of files\n > - file1\n > - file2\n > ...\n > - fileN\n \n> [!abstract] Instruction"},
+		{"id":"f6499932030781bc","type":"text","text":"> [!info] File with Data\n \n> [!abstract] Instruction","x":-700,"y":-193,"width":250,"height":151},
+		{"id":"9334b989070d714f","x":220,"y":-145,"width":214,"height":58,"type":"text","text":"create/modify files"}
+	],
+	"edges":[
+		{"id":"84588490568f29f3","fromNode":"06a4993eeb574390","fromSide":"right","toNode":"abf38334c7553ef1","toSide":"left"},
+		{"id":"07e48ac444d240ad","fromNode":"abf38334c7553ef1","fromSide":"right","toNode":"9334b989070d714f","toSide":"left"},
+		{"id":"351dcef73d70535a","fromNode":"abf38334c7553ef1","fromSide":"right","toNode":"35de65ca9a379227","toSide":"left"},
+		{"id":"d02131d19c518283","fromNode":"abf38334c7553ef1","fromSide":"right","toNode":"ae788ffe116624b6","toSide":"left"},
+		{"id":"fde3083e9f320f7e","fromNode":"abf38334c7553ef1","fromSide":"right","toNode":"abb77beb13bc9355","toSide":"left"},
+		{"id":"af73fb490267af71","fromNode":"671d6af99ffe57f6","fromSide":"right","toNode":"06a4993eeb574390","toSide":"left"},
+		{"id":"d843339ed42c48a1","fromNode":"f6499932030781bc","fromSide":"right","toNode":"06a4993eeb574390","toSide":"left"}
+	]
+}

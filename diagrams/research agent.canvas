@@ -1,8 +1,8 @@
 {
 	"nodes":[
-		{"id":"db565360925c5716","x":-380,"y":-280,"width":367,"height":400,"type":"file","file":"zotero/yangPASemiQAPlanAssistedAgent2025/image-6-x46-y202.png"},
-		{"id":"684a866f68954d38","x":60,"y":80,"width":400,"height":440,"type":"file","file":"research/computer science/language models/agents/research agents workflow idea.md"},
-		{"id":"a1734fd68022a872","x":200,"y":-280,"width":248,"height":125,"type":"text","text":"the idea is to iteratively add more sources (like the arxiv add to search idea)"}
+		{"id":"db565360925c5716","type":"file","file":"zotero/yangPASemiQAPlanAssistedAgent2025/image-6-x46-y202.png","x":-380,"y":-280,"width":367,"height":400},
+		{"id":"684a866f68954d38","type":"file","file":"research/computer science/language models/agents/research agents workflow idea.md","x":60,"y":80,"width":400,"height":440},
+		{"id":"a1734fd68022a872","type":"text","text":"the idea is to iteratively add more sources (like the arxiv add to search idea)","x":200,"y":-280,"width":248,"height":125}
 	],
 	"edges":[
 		{"id":"7c1f43b181134fc3","fromNode":"db565360925c5716","fromSide":"right","toNode":"a1734fd68022a872","toSide":"left"},

@@ -1,0 +1,1 @@
+use [[NotebookLM]] to extract insights and relations from multiple documents (creativity as seeing relations between seemingly unrelated concepts, ideas, etc)
